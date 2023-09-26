@@ -1,5 +1,5 @@
 <h1 align="center">Hello world 👋</h1>
-<h3 align="center">In 2020, on self-isolation during the pandemic, I decided to find a new hobby. Now I am a certified python developer)) My story in the IT world begins today.</h3>
+<h3 align="center">During the 2020 quarantine, I've decided to try something new, a new hobby. I am now a certified Python developer. My journey in the IT world begins today!</h3>
 
 
 - 🌱 Currently, I'm learning **Python, Django**
